@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="city_name">City :</string>
+    <string name="student_name">Name :</string>
+    <string name="student_email">Email :</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter Email</string>
+</resources>
